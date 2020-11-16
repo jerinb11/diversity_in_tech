@@ -3,7 +3,7 @@ READ.ME
 ## Project 3/Final Project
 
 ## Objective <br>
-My goal for my final project was to shed light on the lack of diversity in the tech industry. With being a double minority, I felt the need to not only bring attention to this possible bias but to also provide resources for other minorities who are looking to break into a technolgical career. <br>
+My goal for my final project was to shed light on the lack of diversity in the tech industry. With being a double minority, I felt the need to not only bring attention to this possible bias but to also provide resources for other minorities who are looking to break into a technological career. <br>
 <br> I decided to pull majority of my data from the Bureau of Labor Statistics (BLS) because not only did they have years of occupational data but information on wages, women, Black, Asian, and Hispanic indivdiauls in the field for over nine years.
 
 ## Technologies
